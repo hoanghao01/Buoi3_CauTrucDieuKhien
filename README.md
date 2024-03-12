@@ -3,6 +3,7 @@
 Tên: Nguyễn Hoàng Hảo - LCS3_292T26
 
 Bài tập 3: Cấu trúc điều khiển
+
 Bài 1: Viết chương trình nhập vào số nguyên và kiểm tra xem số đó có chia hết cho 3 hay không. Hiển thị kết quả ra màn hình.
 
 Bài 2: Nhập vào số nguyên dương n, hiển thị bảng cửu chương từ 1 đến n ra màn hình.
@@ -12,6 +13,7 @@ Bài 3: Nhập vào số nguyên dương từ n từ bàn phím, tính tổng gi
 Bài 4: Viết chương trình nhập vào số nguyên từ bàn phím, kiểm tra xem số đó có phải là số chính phương hay không. Hiển thị kết quả đạt được ra màn hình.
 
 Bài 5: Viết chương trình nhập vào tháng bất kỳ từ bàn phím, hiển thị số ngày có trong tháng ra màn hình.
+
 Bài 6: Viết chương trình nhập vào số nguyên n, tính tổng S theo công thức sau và hiển thị kết quả ra màn hình.
 𝑆 = 1 + 22 + 33 + 44 + ⋯ + 𝑛 
 
